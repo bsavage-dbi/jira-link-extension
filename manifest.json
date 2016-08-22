@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Github JIRA linking",
-  "description": "This extension automatically links to JIRA on Github pages.",
+  "description": "This extension automatically links to JIRA on Github pages for Nerdwallet issues.",
   "version": "1.0",
   "content_scripts": [
     {
